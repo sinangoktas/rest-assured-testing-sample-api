@@ -1,4 +1,4 @@
-# Testing the a REST API using REST-Assured
+# Testing a sample Spring Boot REST API using REST-Assured
 
 This project focuses on testing a sample Spring Boot REST API using [REST-assured](http://rest-assured.io/).
 
