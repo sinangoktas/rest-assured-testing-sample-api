@@ -190,6 +190,7 @@ class TestingRestApplicationTests {
 
 	}
 
+
 	private HashMap<String, Object> getRecordHashMap(int count, String name, String type, float price) {
 		HashMap<String, Object> hashMap = new HashMap<String, Object>();
 		hashMap.put("price", price);
